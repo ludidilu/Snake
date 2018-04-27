@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:c3de386c29bc56a0984868e729bd0fdf$ -->
+<TextureAtlas imagePath="pic.png">
+    <SubTexture name="0" x="2" y="1004" width="0" height="0" frameX="0" frameY="0" frameWidth="4" frameHeight="4"/>
+    <SubTexture name="1" x="629" y="260" width="118" height="118" frameX="-4" frameY="-5" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="2" x="629" y="132" width="128" height="126" frameX="0" frameY="-2" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="3" x="889" y="132" width="126" height="126" frameX="-2" frameY="-2" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="4" x="889" y="2" width="128" height="128"/>
+    <SubTexture name="5" x="759" y="2" width="128" height="128"/>
+    <SubTexture name="6" x="759" y="224" width="118" height="118" frameX="-4" frameY="-5" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="arrow" x="961" y="260" width="60" height="50" frameX="-10" frameY="-15" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="ball" x="879" y="342" width="80" height="80"/>
+    <SubTexture name="bg" x="2" y="2" width="625" height="1000"/>
+    <SubTexture name="cha" x="629" y="2" width="128" height="128"/>
+    <SubTexture name="finger" x="685" y="380" width="52" height="104" frameX="-42" frameY="-10" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="gou" x="759" y="132" width="128" height="90" frameX="0" frameY="-19" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="light" x="879" y="260" width="80" height="80"/>
+    <SubTexture name="mapBg" x="749" y="344" width="78" height="78" frameX="-1" frameY="-1" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z11" x="829" y="344" width="42" height="36" frameX="-20" frameY="-18" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z12" x="791" y="610" width="50" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z13" x="683" y="600" width="52" height="36" frameX="-14" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z14" x="845" y="576" width="52" height="34" frameX="-14" frameY="-20" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z15" x="737" y="576" width="52" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z16" x="791" y="572" width="52" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z17" x="845" y="538" width="52" height="36" frameX="-16" frameY="-18" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z18" x="629" y="380" width="54" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z21" x="681" y="676" width="42" height="36" frameX="-20" frameY="-18" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z22" x="843" y="612" width="50" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z23" x="901" y="502" width="52" height="36" frameX="-14" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z24" x="953" y="574" width="52" height="34" frameX="-14" frameY="-20" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z25" x="955" y="464" width="52" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z26" x="629" y="570" width="52" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z27" x="683" y="562" width="52" height="36" frameX="-16" frameY="-18" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z28" x="929" y="426" width="54" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z31" x="735" y="652" width="42" height="36" frameX="-20" frameY="-18" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z32" x="899" y="576" width="50" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z33" x="737" y="538" width="52" height="36" frameX="-14" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z34" x="899" y="540" width="52" height="34" frameX="-14" frameY="-20" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z35" x="791" y="534" width="52" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z36" x="847" y="500" width="52" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z37" x="901" y="464" width="52" height="36" frameX="-16" frameY="-18" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z38" x="873" y="424" width="54" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z41" x="789" y="648" width="42" height="36" frameX="-20" frameY="-18" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z42" x="629" y="644" width="50" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z43" x="629" y="532" width="52" height="36" frameX="-14" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z44" x="955" y="538" width="52" height="34" frameX="-14" frameY="-20" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z45" x="683" y="524" width="52" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z46" x="737" y="500" width="52" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z47" x="793" y="496" width="52" height="36" frameX="-16" frameY="-18" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z48" x="961" y="388" width="54" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z51" x="829" y="420" width="42" height="36" frameX="-20" frameY="-18" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z52" x="683" y="638" width="50" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z53" x="847" y="462" width="52" height="36" frameX="-14" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z54" x="955" y="502" width="52" height="34" frameX="-14" frameY="-20" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z55" x="629" y="494" width="52" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z56" x="683" y="486" width="52" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z57" x="739" y="462" width="52" height="36" frameX="-16" frameY="-18" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z58" x="961" y="350" width="54" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z61" x="829" y="382" width="42" height="36" frameX="-20" frameY="-18" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z62" x="737" y="614" width="50" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z63" x="793" y="458" width="52" height="36" frameX="-14" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z64" x="629" y="608" width="52" height="34" frameX="-14" frameY="-20" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z65" x="739" y="424" width="52" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z66" x="629" y="456" width="52" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z67" x="629" y="418" width="52" height="36" frameX="-16" frameY="-18" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="z68" x="961" y="312" width="54" height="36" frameX="-15" frameY="-19" frameWidth="80" frameHeight="80"/>
+</TextureAtlas>
